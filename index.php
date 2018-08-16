@@ -1,15 +1,7 @@
 <?php
-    const TESTCONSTANTS = 'asd';
-
+CONST testConstanta = 'asd';
 $user_name = "Igor";
 
+function show_something(){ RETURN 'SOMETHING';}
 
-  @return string
-
-function show_something()
-
-{
-        return 'SOMETHING';
-}
-
-    if (1==1) echo 'hi';
+if (1==1) echo 'hi';
